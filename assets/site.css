@@ -527,7 +527,7 @@ fieldset.field{border:0;margin:0;padding:0;min-width:0}
 @media (max-width:639px){
  .who-grid{grid-template-columns:1fr 1fr;gap:10px}
  .who-i{padding:16px}
- .who-i p{display:none}
+ .who-i p{display:block;font-size:.88rem;line-height:1.45;margin:6px 0 0}
  .who-i h3{font-size:.98rem;margin:0}
  .who-ic{width:38px;height:38px;margin-bottom:10px}
  .who-ic .i{width:19px;height:19px}
@@ -702,3 +702,6 @@ h3{font-size:clamp(1.15rem,1.1rem + .3vw,1.3rem);line-height:1.35;font-weight:50
   .hero .cta-row{margin-bottom:4px}
   .proof{padding-top:16px;padding-bottom:18px}
 }
+
+/* Phase A (27 Nov 2026): full card descriptions on mobile */
+@media (max-width:639px){.who-i p,.scard .scard-p,.sct p,.pil p,.sg p,.tl-step p{display:block!important}}

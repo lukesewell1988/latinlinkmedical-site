@@ -1,4 +1,4 @@
-Latin Link Medical - static site (no build step)
+Latin Link - static site (no build step)
 
 Deploy: upload this folder as-is to Cloudflare Pages or Netlify (publish directory = this folder, no build command).
 Pages: index.html (home), privacy.html, 404.html. Assets in /assets. Brochure: /latin-link-brochure-2026.pdf

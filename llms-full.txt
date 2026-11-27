@@ -3,7 +3,7 @@
 Website: https://latinlinkmedical.com/  |  Main site: https://www.latinlink.com  |  LinkedIn: https://uk.linkedin.com/company/latin-link
 
 ## Who we are
-Latin Link is a specialist translation company founded by a group of linguists and scientists, and a trading name of Language Partners Ltd, 12 Hammersmith Grove, London W6 7AP, United Kingdom. It translates medical, pharmaceutical, life-science, scientific and technical content, with teams across Europe and Latin America. Languages include Spanish for Spain and Latin America, Brazilian and European Portuguese, French, Italian, German, Polish, Dutch, Swedish and translation into English. Every project is translated by a native specialist and reviewed by a second linguist, in a workflow aligned with ISO 17100.
+Latin Link is a specialist translation company founded by a group of linguists and scientists, and a trading name of Language Partners Ltd, 12 Hammersmith Grove, London W6 7AP, United Kingdom. It translates medical, pharmaceutical, life-science, scientific and technical content, with teams across Europe and Latin America. Its strongest medical teams translate into English, Spanish (European and Latin American) and Portuguese (European and Brazilian), with strong French and Italian teams and coverage across all European and Asian languages. Every project is translated by a native specialist and reviewed by a second linguist, in a workflow aligned with ISO 17100.
 
 Latin Link has worked closely with the clinical and pharmaceutical industry for 15 years. It is based in London, with production teams across Europe and Latin America working in several time zones. Founded on its expertise in Latin America, it now translates into all major European languages. It focuses on the language pairs it does best rather than claiming every language.
 
@@ -51,10 +51,10 @@ A CAT tool machine-translates the document using a translation memory; a special
 Therapy and specialist areas: Audiology, Biotechnology, Cardiology, Cardiovascular, Dermatology, Diagnostics, Endoscopy, General medicine, Gynaecology, Mental health, Neurology, Oncology, Orthopaedics, Pain management, Pharmacology, Urology, Vascular, Women’s health.
 
 ## Languages
-- Spanish: Traditional Spanish for Spain, and Spanish localised for the 20 Spanish-speaking countries of Latin America.
+- Spanish: European Spanish for Spain, and Spanish localised for the 20 Spanish-speaking countries of Latin America.
 - Portuguese: Brazilian Portuguese, plus European Portuguese for Portugal and Lusophone Africa, with capacity to scale.
 - French & Italian: French for Europe, North America and beyond, and Italian, by native scientific linguists.
-- European languages: German, Polish, Dutch, Swedish and other European combinations, managed by our multilingual PMs.
+- European & Asian languages: German, Polish, Dutch, Swedish and every other European language, plus Asian languages as projects need, managed by our multilingual PMs.
 - Into English: Our most requested language: more than 12 million English words translated each year.
 - Regional localisation: Local and regional dialects and terminology, localised for the market you are entering.
 
@@ -89,7 +89,7 @@ Q: Which Latin American regulators do you translate documentation for?
 A: We translate documentation for submissions to ANVISA (Brazil), COFEPRIS (Mexico), INVIMA (Colombia), DIGEMID (Peru) and ANMAT (Argentina), in Brazilian Portuguese and the Spanish used in each country.
 
 Q: Which languages do you translate?
-A: We focus on the language pairs we do best: Spanish (Spain and Latin America), Brazilian and European Portuguese, French, Italian, German, Polish, Dutch, Swedish and other European combinations, plus translation into English. Our translators work only into their native language.
+A: Our strongest medical teams translate into English, Spanish (European and Latin American) and Portuguese (European and Brazilian). We also have strong French and Italian teams, and cover all European and Asian languages as projects need. Our translators work only into their native language.
 
 Q: Who are your translators?
 A: Native specialists with at least five years’ translation experience and significant work experience in a pharmaceutical or clinical environment. We require qualifications in linguistics and in a scientific discipline; our scientific translators hold a master’s degree or PhD. They translate only within their knowledge area.
@@ -118,9 +118,47 @@ A: Client documents are shared only with the team working on your project. We ar
 Q: How do I get a quote?
 A: Use the quote form, email the Latin Link Projects Team or send files through our client portal. We provide free, fast, customised quotes for one-off projects and longer-term partnerships alike.
 
+## Company pages
+- Quality & compliance: https://latinlinkmedical.com/quality-compliance/ (How Latin Link assures medical translation quality: an ISO 17100-aligned workflow, independent translation and specialist review, back-translation, signed Certificates of Translation Accuracy and confidential handling.)
+- Languages & regulatory markets: https://latinlinkmedical.com/languages-regulatory-markets/ (Core medical teams into English, Spanish (European and Latin American) and Portuguese (European and Brazilian), strong French and Italian teams, and documentation for EMA, MHRA, FDA, ANVISA, COFEPRIS, INVIMA, ANMAT and ISP Chile.)
+- About Latin Link & governance: https://latinlinkmedical.com/about-governance/ (Latin Link is a trading name of Language Partners Ltd, London, UK: a team specialising in medical and clinical translation for over 15 years, with dedicated project management and clear governance.)
+
+## Quality and compliance details
+- Clinical and medical linguists: Native medical linguists with clinical experience and at least 5 years’ translation experience, who translate only within their field.
+- Back-translation and reconciliation: For ICFs, patient materials and clinical outcome assessments, an independent back-translation and a documented reconciliation of every discrepancy.
+- Signed Certificates of Translation Accuracy: Signed certificates that identify the document, its version and the language pair, ready for sites, ethics committees and your trial master file.
+- Confidentiality and secure handling: Files are shared only with the linguists and project managers working on your project, through access-controlled systems. We are happy to work under your NDA.
+- Terminology control: Approved glossaries and translation memories in Trados and memoQ keep terminology consistent across documents, countries and amendments.
+- Version control for amendments: A register of documents, versions and languages for each programme, so amendments flow through every dependent translation.
+
+## Regulatory markets
+- EMA (European Union): European Medicines Agency
+- MHRA (United Kingdom): Medicines and Healthcare products Regulatory Agency
+- FDA (United States): Food and Drug Administration
+- ANVISA (Brazil): Agência Nacional de Vigilância Sanitária
+- COFEPRIS (Mexico): Comisión Federal para la Protección contra Riesgos Sanitarios
+- INVIMA (Colombia): Instituto Nacional de Vigilancia de Medicamentos y Alimentos
+- ANMAT (Argentina): Administración Nacional de Medicamentos, Alimentos y Tecnología Médica
+- ISP (Chile): Instituto de Salud Pública de Chile
+- DIGEMID (Peru): Dirección General de Medicamentos, Insumos y Drogas
+
+## Governance
+- Named accountability: Every client has a dedicated account manager and project management team, so you always know who is responsible for your work.
+- Independent checks: No linguist revises their own translation. Revision, back-translation and reconciliation are carried out by different, independent linguists.
+- Controlled linguist selection: Linguists are selected for their language pair and subject, with clinical experience and at least 5 years’ translation experience, and reviewed on every project.
+- Data protection: Personal data is handled under UK GDPR, with appropriate safeguards when linguists outside the UK work on a project. See our privacy notice.
+- Documented quality: A workflow aligned with ISO 17100, versioned records, reconciliation reports and signed Certificates of Translation Accuracy on request.
+- Reliable delivery: Teams across several time zones and a clear delivery plan agreed with you at the start of every project.
+
 ## Insights
+- ISO 17100-aligned workflows and Certificates of Translation Accuracy: what clinical buyers should ask for: https://latinlinkmedical.com/insights/iso-17100-aligned-translation-certificates-of-accuracy/
+  Sponsors, CROs and sites are often asked to show that a translated document is accurate. An ISO 17100-aligned workflow and a signed Certificate of Translation Accuracy answer that question together, but only if you know what each one covers.
+- Managing multi-country ICF and protocol updates without version drift: https://latinlinkmedical.com/insights/multi-country-icf-protocol-amendment-translation/
+  An amendment to a global protocol can trigger updates to dozens of translated consent forms and site documents. Without a clear process, countries end up on different versions and sites lose confidence in what they are using.
+- Back-translation and reconciliation for patient-facing clinical materials: https://latinlinkmedical.com/insights/back-translation-reconciliation-patient-facing-clinical-materials/
+  Back-translation is one of the most requested and least understood steps in clinical translation. Used well, it gives sponsors and ethics committees evidence that patients in every country receive the same meaning.
 - Translation pitfalls in Latin American clinical trial and regulatory submissions: https://latinlinkmedical.com/insights/latam-clinical-trial-regulatory-translation-pitfalls/
-Most delays we see on Latin American submissions are not about the science. They come from treating Spanish or Portuguese as a single language, letting terminology drift across the trial package, or sending patient-facing text that an ethics committee cannot accept.
+  Most delays we see on Latin American submissions are not about the science. They come from treating Spanish or Portuguese as a single language, letting terminology drift across the trial package, or sending patient-facing text that an ethics committee cannot accept.
 Newsletter sign-up (mailto, no tracking): https://latinlinkmedical.com/insights/#newsletter
 
 ## Contact

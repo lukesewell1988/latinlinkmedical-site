@@ -1,4 +1,4 @@
-/* Latin Link Medical: small progressive enhancements. No trackers, no external calls. */
+/* Latin Link: small progressive enhancements. No trackers, no external calls. */
 (function () {
   var d = document;
   d.documentElement.classList.remove('no-js');
@@ -82,7 +82,7 @@
     var company = val('company');
     var subject = 'Quote request' + (company ? ' - ' + company : '') + ' (latinlinkmedical.com)';
     var lines = [
-      'Hello Luke,', '',
+      'Hello Latin Link team,', '',
       'I would like a quote for a translation project.', '',
       'Name: ' + val('name'),
       'Work email: ' + val('email'),
@@ -134,7 +134,7 @@
       var org = (news.elements['organisation'] && news.elements['organisation'].value || '').trim();
       var subject = 'Insights newsletter request' + (org ? ' - ' + org : '');
       var lines = [
-        'Hello Luke,', '',
+        'Hello Latin Link team,', '',
         'Please add me to the Latin Link insights briefing.', '',
         'Name: ' + name,
         'Work email: ' + email,
