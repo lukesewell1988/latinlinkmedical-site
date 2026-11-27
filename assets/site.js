@@ -97,7 +97,7 @@
   }
   function openMail() {
     window.location.href = buildMailto();
-    status.textContent = 'Your email app should now open with your request filled in. Attach your files and press send. If nothing opened, email luke.sewell@latinlink.com directly.';
+    status.textContent = 'Your email app should now open with your request filled in. Attach your files and press send. If nothing opened, email projects@latinlink.com directly.';
   }
 
   form.addEventListener('submit', function (e) {
@@ -128,7 +128,7 @@
       e.preventDefault();
       if (news.elements['bot-field'] && news.elements['bot-field'].value) return;
       if (!news.checkValidity()) { news.reportValidity(); return; }
-      var to = news.getAttribute('data-mailto') || 'luke.sewell@latinlink.com';
+      var to = news.getAttribute('data-mailto') || 'projects@latinlink.com';
       var name = (news.elements['name'] && news.elements['name'].value || '').trim();
       var email = (news.elements['email'] && news.elements['email'].value || '').trim();
       var org = (news.elements['organisation'] && news.elements['organisation'].value || '').trim();
@@ -141,7 +141,7 @@
         'Organisation: ' + (org || '-')
       ];
       window.location.href = 'mailto:' + to + '?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(lines.join('\r\n'));
-      if (nstatus) nstatus.textContent = 'Your email app should now open with the request filled in. Press send to join the briefing. If nothing opened, email luke.sewell@latinlink.com directly.';
+      if (nstatus) nstatus.textContent = 'Your email app should now open with the request filled in. Press send to join the briefing. If nothing opened, email projects@latinlink.com directly.';
     });
   }
 })();

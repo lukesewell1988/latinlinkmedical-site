@@ -4,7 +4,7 @@ Deploy: upload this folder as-is to Cloudflare Pages or Netlify (publish directo
 Pages: index.html (home), privacy.html, 404.html. Assets in /assets. Brochure: /latin-link-brochure-2026.pdf
 _headers sets security and cache headers on both hosts.
 
-Quote form: by default builds a pre-filled email to luke.sewell@latinlink.com (no backend).
+Quote form: by default builds a pre-filled email to projects@latinlink.com (no backend).
  - Netlify Forms: in index.html add data-netlify="true" netlify-honeypot="bot-field" to <form id="quote-form"> and set data-endpoint="/".
  - Formspree: set data-endpoint="https://formspree.io/f/YOUR_ID" on the form.
 Then change the note under the button, which currently says it opens the email app.
