@@ -14,7 +14,7 @@ Key facts:
 ## Services
 - [Clinical trial translation](https://latinlinkmedical.com/clinical-trial-translation/): protocols, ICFs, IBs, CSRs, CRFs, patient recruitment and Quality of Life instruments.
 - [Regulatory and Latin American submission translation](https://latinlinkmedical.com/regulatory-translation-latin-america/): dossiers, SmPCs, PILs, package inserts, PSURs and pharmacovigilance.
-- [Medical device translation](https://latinlinkmedical.com/medical-device-translation/): IFUs, DFUs, labelling, packaging and user manuals.
+- [Medical device translation](https://latinlinkmedical.com/medical-device-translation/): IFUs, DFUs, labelling, packaging and user manuals, including EU MDR and IVDR.
 - [Publications and medical communications translation](https://latinlinkmedical.com/medical-communications-translation/): journal manuscripts into English, medical education, brochures and presentations.
 
 ## Company
@@ -23,6 +23,7 @@ Key facts:
 - [About & governance](https://latinlinkmedical.com/about-governance/): Language Partners Ltd trading as Latin Link, London; team, project management and accountability.
 
 ## Insights
+- [Translating IFUs and labelling under EU MDR and IVDR](https://latinlinkmedical.com/insights/eu-mdr-ivdr-ifu-labelling-translation/)
 - [Insights](https://latinlinkmedical.com/insights/): practical notes on clinical, regulatory and medical device translation.
 - [ISO 17100-aligned workflows and Certificates of Translation Accuracy: what clinical buyers should ask for](https://latinlinkmedical.com/insights/iso-17100-aligned-translation-certificates-of-accuracy/)
 - [Managing multi-country ICF and protocol updates without version drift](https://latinlinkmedical.com/insights/multi-country-icf-protocol-amendment-translation/)

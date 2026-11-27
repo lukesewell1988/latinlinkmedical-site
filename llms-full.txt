@@ -34,6 +34,8 @@ Medical device translation is the translation and localisation of everything tha
 From initial product labelling and instruction manuals to scientific evaluation and production-ready communications, we help medical device companies achieve their localisation goals.
 Medical devices: Instructions for use (IFUs) and directions for use (DFUs); Product labelling and packaging text; Instruction and user manuals; Safety information; Scientific evaluation documents; Production-ready communications.
 
+EU MDR (Regulation (EU) 2017/745) and IVDR (Regulation (EU) 2017/746) make the instructions for use and the labelling part of the technical documentation. Electronic IFUs, UDI and the device version still need a controlled translation and an independent review. Practical note: https://latinlinkmedical.com/insights/eu-mdr-ivdr-ifu-labelling-translation/
+
 ### Publications & medical communications translation
 URL: https://latinlinkmedical.com/medical-communications-translation/
 Medical communications translation covers the scientific and educational content written about medicines and medical science, including journal manuscripts and abstracts, medical education, medical brochures and presentations. Much of it is translated into English for publication, where the text must read as if it had been written by a native scientific author.
@@ -119,9 +121,9 @@ Q: How do I get a quote?
 A: Use the quote form, email the Latin Link Projects Team or send files through our client portal. We provide free, fast, customised quotes for one-off projects and longer-term partnerships alike.
 
 ## Company pages
-- Quality & compliance: https://latinlinkmedical.com/quality-compliance/ (How Latin Link assures medical translation quality: an ISO 17100-aligned workflow, independent translation and specialist review, back-translation, signed Certificates of Translation Accuracy and confidential handling.)
-- Languages & regulatory markets: https://latinlinkmedical.com/languages-regulatory-markets/ (Core medical teams into English, Spanish (European and Latin American) and Portuguese (European and Brazilian), strong French and Italian teams, and documentation for EMA, MHRA, FDA, ANVISA, COFEPRIS, INVIMA, ANMAT and ISP Chile.)
-- About Latin Link & governance: https://latinlinkmedical.com/about-governance/ (Latin Link is a trading name of Language Partners Ltd, London, UK: a team specialising in medical and clinical translation for over 15 years, with dedicated project management and clear governance.)
+- Quality & compliance: https://latinlinkmedical.com/quality-compliance/ (ISO 17100-aligned workflow with specialist translation, independent review, back-translation, Certificates of Translation Accuracy and confidentiality.)
+- Languages & regulatory markets: https://latinlinkmedical.com/languages-regulatory-markets/ (English, Spanish (European and Latin American) and Portuguese (European and Brazilian), plus French, Italian and full European and Asian coverage.)
+- About Latin Link & governance: https://latinlinkmedical.com/about-governance/ (Latin Link is a trading name of Language Partners Ltd, London: over 15 years in medical translation, with dedicated project management and governance.)
 
 ## Quality and compliance details
 - Clinical and medical linguists: Native medical linguists with clinical experience and at least 5 years’ translation experience, who translate only within their field.
