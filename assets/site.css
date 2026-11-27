@@ -705,3 +705,12 @@ h3{font-size:clamp(1.15rem,1.1rem + .3vw,1.3rem);line-height:1.35;font-weight:50
 
 /* Phase A (27 Nov 2026): full card descriptions on mobile */
 @media (max-width:639px){.who-i p,.scard .scard-p,.sct p,.pil p,.sg p,.tl-step p{display:block!important}}
+
+/* Phase 1: homepage insights grid */
+.ins-grid{display:grid;gap:24px}
+.ins-grid .ins-card{display:flex;flex-direction:column}
+.ins-grid .ins-card h3{font-size:clamp(1.2rem,1.5vw,1.45rem);margin:0 0 12px;max-width:34ch;line-height:1.2}
+.ins-grid .ins-card h3 a{color:var(--navy);text-decoration:none}
+.ins-grid .ins-card h3 a:hover{color:var(--accent-ink)}
+.ins-grid + .ins-all{margin-top:28px}
+@media (min-width:900px){.ins-grid{grid-template-columns:1fr 1fr}}
